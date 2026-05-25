@@ -30,8 +30,8 @@ Distritos del cantón de La Unión:
 
 Con la reciente entrada en vigencia del nuevo Reglamento del Registro Inmobiliario, por medio del decreto 44647 del Ministerio de Justicia y Paz, es cada vez más relevante conocer, poder aplicar y entender de que se tratan todos los conceptos relacionados al mapa catastral para los profesionales relacionados a los procesos de inscripción de planos y fincas y para los propietarios de los inmuebles, ya que quedan firme y definitivo, cambios que se fueron dando paulatinamente desde la creación del Proyecto de Regularización de Catastro y Registro en 2005 y que estaban bajo la aplicación jurídica de la ley de Catastro y una serie de circulares internas de Registro Nacional conocidas como *RIM*.
 
-    Reglamento disponible para consulta en la página de la Procuraduría 
-    [Enlace](https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=102850&nValor3=142470)
+*Reglamento disponible para consulta en la página de la Procuraduría*
+[Enlace](https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=102850&nValor3=142470)
 
 Para poder entender los pormenores de la situación catastral registral de un inmueble, es necesario conocer los conceptos base con los que se generaron los productos que se utilizan actualmente las calificaciones, como lo son el mapa catastral.
 
@@ -97,79 +97,55 @@ Existe un criterio de compatibilidad establecido en el manual de conformación d
 
 El Cantón de la Unión tiene un total de 32.225 de Predios, cada uno de los cuales tiene asociada una base de datos literal compuesta por los siguientes campos:
 
-1.Identificador (Campo de Texto de 12 dígitos que representa la identificación de cada propiedad compuesta por la contatenación del número de provincia (1), el número de cantón (2), el número de distrito (2), el número de finca (7), el duplicado (1) y el horizontal(1)).
-
-2.Predio (Campo de Texto de 5 dígitos que indica el número de Predio).
-
-3.Plano (Campo de Texto de 12 dígitos que indica el número de Plano).
-
-4.Compatible (Campo de Texto de 1 dígito que indica C en caso de ser cumplir con las condiciones de compatibilidad y 0 en caso de incumplirlas).
-
-5.Incos_01 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 1 y 0 si no la tiene).
-
-6.Incos_02 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 2 y 0 si no la tiene).
-
-7.Incos_03 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 3 y 0 si no la tiene).
-
-8.Incos_04 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 4 y 0 si no la tiene).
-
-9.Incos_05 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 5 y 0 si no la tiene).
-
-10.Incos_06 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 6 y 0 si no la tiene).
-
-11.Incos_07 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 7 y 0 si no la tiene).
-
-12.Incos_08 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 8 y 0 si no la tiene).
-
-13.Incos_09 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 9 y 0 si no la tiene).
-
-14.Incos_10 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 10 y 0 si no la tiene).
-
-15.Incos_11 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 11 y 0 si no la tiene).
-
-16.Modifica_1 (Campo númeral binario que indica 1 si el predio tiene modificación 1 y 0 si no la tiene).
-
-17.Modifica_2 (Campo númeral binario que indica 1 si el predio tiene modificación 2 y 0 si no la tiene).
-
-18.Modifica_3 (Campo númeral binario que indica 1 si el predio tiene modificación 3 y 0 si no la tiene).
-
-19.Modifica_4 (Campo númeral binario que indica 1 si el predio tiene modificación 4 y 0 si no la tiene).
-
-20.Modifica_5 (Campo númeral binario que indica 1 si el predio tiene modificación 5 y 0 si no la tiene).
-
-21.Modifica_6 (Campo númeral binario que indica 1 si el predio tiene modificación 6 y 0 si no la tiene).
-
-22.Modifica_7 (Campo númeral binario que indica 1 si el predio tiene modificación 7 y 0 si no la tiene).
-
-23.Modifica_9 (Campo númeral binario que indica 1 si el predio tiene modificación 9 y 0 si no la tiene).
-
-24.X (Campo númeral  que indica la coordenada X en sistema de coordenadas proyectadas CRTM05-CRSIRGAS del centroide interno del polígono del predio).
-
-25.Y (Campo númeral  que indica la coordenada y en sistema de coordenadas proyectadas CRTM05-CRSIRGAS del centroide interno del polígono del predio).
+- Identificador (Campo de Texto de 12 dígitos que representa la identificación de cada propiedad compuesta por la contatenación del número de provincia (1), el número de cantón (2), el número de distrito (2), el número de finca (7), el duplicado (1) y el horizontal(1)).
+- Predio (Campo de Texto de 5 dígitos que indica el número de Predio).
+- Plano (Campo de Texto de 12 dígitos que indica el número de Plano).
+- Compatible (Campo de Texto de 1 dígito que indica C en caso de ser cumplir con las condiciones de compatibilidad y 0 en caso de incumplirlas).
+- Incos_01 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 1 y 0 si no la tiene).
+- Incos_02 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 2 y 0 si no la tiene).
+- Incos_03 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 3 y 0 si no la tiene).
+- Incos_04 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 4 y 0 si no la tiene).
+- Incos_05 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 5 y 0 si no la tiene).
+- Incos_06 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 6 y 0 si no la tiene).
+- Incos_07 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 7 y 0 si no la tiene).
+- Incos_08 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 8 y 0 si no la tiene).
+- Incos_09 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 9 y 0 si no la tiene).
+- Incos_10 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 10 y 0 si no la tiene).
+- Incos_11 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 11 y 0 si no la tiene).
+- Modifica_1 (Campo númeral binario que indica 1 si el predio tiene modificación 1 y 0 si no la tiene).
+- Modifica_2 (Campo númeral binario que indica 1 si el predio tiene modificación 2 y 0 si no la tiene).
+- Modifica_3 (Campo númeral binario que indica 1 si el predio tiene modificación 3 y 0 si no la tiene).
+- Modifica_4 (Campo númeral binario que indica 1 si el predio tiene modificación 4 y 0 si no la tiene).
+- Modifica_5 (Campo númeral binario que indica 1 si el predio tiene modificación 5 y 0 si no la tiene).
+- Modifica_6 (Campo númeral binario que indica 1 si el predio tiene modificación 6 y 0 si no la tiene).
+- Modifica_7 (Campo númeral binario que indica 1 si el predio tiene modificación 7 y 0 si no la tiene).
+- Modifica_9 (Campo númeral binario que indica 1 si el predio tiene modificación 9 y 0 si no la tiene).
+- X (Campo númeral  que indica la coordenada X en sistema de coordenadas proyectadas CRTM05-CRSIRGAS del centroide interno del polígono del predio).
+- Y (Campo númeral  que indica la coordenada y en sistema de coordenadas proyectadas CRTM05-CRSIRGAS del centroide interno del polígono del predio).
 
 
 Las relaciones de los 32.225 predios son:
 
--Relación 0= 2.190
--Relación 1= 27.346
--Relación 2= 348
--Relación 3= 11
--Relación 4= 78
--Relación 5= 2.602
+- Relación 0= 2.190
+- Relación 1= 27.346
+- Relación 2= 348
+- Relación 3= 11
+- Relación 4= 78
+- Relación 5= 2.602
 
 La cantidad de inconsistencias en predios del cantón son:
 
--Inconsistencia 1= 773 Predios
--Inconsistencia 2= 199 Predios
--Inconsistencia 3= 1.275 Predios
--Inconsistencia 4= 341 Predios
--Inconsistencia 5= 1.147 Predios
--Inconsistencia 6= 528 Predios
--Inconsistencia 7= 187 Predios
--Inconsistencia 8= 36 Predios
--Inconsistencia 9= 551 Predios
--Inconsistencia 10= 31 Predios
--Inconsistencia 11= 2.182 Predios
+- Inconsistencia 1= 773 Predios
+- Inconsistencia 2= 199 Predios
+- Inconsistencia 3= 1.275 Predios
+- Inconsistencia 4= 341 Predios
+- Inconsistencia 5= 1.147 Predios
+- Inconsistencia 6= 528 Predios
+- Inconsistencia 7= 187 Predios
+- Inconsistencia 8= 36 Predios
+- Inconsistencia 9= 551 Predios
+- Inconsistencia 10= 31 Predios
+- Inconsistencia 11= 2.182 Predios
 
 ## Bibliografía
 
