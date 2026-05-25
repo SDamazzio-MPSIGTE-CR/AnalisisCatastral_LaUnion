@@ -13,7 +13,7 @@ La Unión es el cantón número 3 de la Provincia de Cartago.
 ![Ubicación del cantón en la provincia (Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/d/d8/Costa_Rica_-_Cartago_-_La_Union.svg) 
 *Ubicación del Cantón en la Provincia (Wikipedia)*
 
-Página *web* del gobierno local: https://launion.go.cr/
+Página *web* del gobierno local: [Enlace](https://launion.go.cr/)
 
 Distritos del cantón de La Unión:
 
@@ -31,7 +31,7 @@ Distritos del cantón de La Unión:
 Con la reciente entrada en vigencia del nuevo Reglamento del Registro Inmobiliario, por medio del decreto 44647 del Ministerio de Justicia y Paz, es cada vez más relevante conocer, poder aplicar y entender de que se tratan todos los conceptos relacionados al mapa catastral para los profesionales relacionados a los procesos de inscripción de planos y fincas y para los propietarios de los inmuebles, ya que quedan firme y definitivo, cambios que se fueron dando paulatinamente desde la creación del Proyecto de Regularización de Catastro y Registro en 2005 y que estaban bajo la aplicación jurídica de la ley de Catastro y una serie de circulares internas de Registro Nacional conocidas como *RIM*.
 
     Reglamento disponible para consulta en la página de la Procuraduría 
-    (https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=102850&nValor3=142470)
+    [Enlace](https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=102850&nValor3=142470)
 
 Para poder entender los pormenores de la situación catastral registral de un inmueble, es necesario conocer los conceptos base con los que se generaron los productos que se utilizan actualmente las calificaciones, como lo son el mapa catastral.
 
