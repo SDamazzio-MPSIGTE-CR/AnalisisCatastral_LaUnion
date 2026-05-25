@@ -97,31 +97,31 @@ Existe un criterio de compatibilidad establecido en el manual de conformación d
 
 El Cantón de la Unión tiene un total de 32.225 de Predios, cada uno de los cuales tiene asociada una base de datos literal compuesta por los siguientes campos:
 
--Identificador (Campo de Texto de 12 dígitos que representa la identificación de cada propiedad compuesta por la contatenación del número de provincia (1), el número de cantón (2), el número de distrito (2), el número de finca (7), el duplicado (1) y el horizontal(1)).
--Predio (Campo de Texto de 5 dígitos que indica el número de Predio).
--Plano (Campo de Texto de 12 dígitos que indica el número de Plano).
--Compatible (Campo de Texto de 1 dígito que indica C en caso de ser cumplir con las condiciones de compatibilidad y 0 en caso de incumplirlas).
--Incos_01 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 1 y 0 si no la tiene).
--Incos_02 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 2 y 0 si no la tiene).
--Incos_03 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 3 y 0 si no la tiene).
--Incos_04 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 4 y 0 si no la tiene).
--Incos_05 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 5 y 0 si no la tiene).
--Incos_06 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 6 y 0 si no la tiene).
--Incos_07 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 7 y 0 si no la tiene).
--Incos_08 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 8 y 0 si no la tiene).
--Incos_09 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 9 y 0 si no la tiene).
--Incos_10 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 10 y 0 si no la tiene).
--Incos_11 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 11 y 0 si no la tiene).
--Modifica_1 (Campo númeral binario que indica 1 si el predio tiene modificación 1 y 0 si no la tiene).
--Modifica_2 (Campo númeral binario que indica 1 si el predio tiene modificación 2 y 0 si no la tiene).
--Modifica_3 (Campo númeral binario que indica 1 si el predio tiene modificación 3 y 0 si no la tiene).
--Modifica_4 (Campo númeral binario que indica 1 si el predio tiene modificación 4 y 0 si no la tiene).
--Modifica_5 (Campo númeral binario que indica 1 si el predio tiene modificación 5 y 0 si no la tiene).
--Modifica_6 (Campo númeral binario que indica 1 si el predio tiene modificación 6 y 0 si no la tiene).
--Modifica_7 (Campo númeral binario que indica 1 si el predio tiene modificación 7 y 0 si no la tiene).
--Modifica_9 (Campo númeral binario que indica 1 si el predio tiene modificación 9 y 0 si no la tiene).
--X (Campo númeral  que indica la coordenada X en sistema de coordenadas proyectadas CRTM05-CRSIRGAS del centroide interno del polígono del predio).
--Y (Campo númeral  que indica la coordenada y en sistema de coordenadas proyectadas CRTM05-CRSIRGAS del centroide interno del polígono del predio).
+1.Identificador (Campo de Texto de 12 dígitos que representa la identificación de cada propiedad compuesta por la contatenación del número de provincia (1), el número de cantón (2), el número de distrito (2), el número de finca (7), el duplicado (1) y el horizontal(1)).
+2.Predio (Campo de Texto de 5 dígitos que indica el número de Predio).
+3.Plano (Campo de Texto de 12 dígitos que indica el número de Plano).
+4.Compatible (Campo de Texto de 1 dígito que indica C en caso de ser cumplir con las condiciones de compatibilidad y 0 en caso de incumplirlas).
+5.Incos_01 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 1 y 0 si no la tiene).
+6.Incos_02 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 2 y 0 si no la tiene).
+7.Incos_03 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 3 y 0 si no la tiene).
+8.Incos_04 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 4 y 0 si no la tiene).
+9.Incos_05 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 5 y 0 si no la tiene).
+10.Incos_06 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 6 y 0 si no la tiene).
+11.Incos_07 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 7 y 0 si no la tiene).
+12.Incos_08 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 8 y 0 si no la tiene).
+13.Incos_09 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 9 y 0 si no la tiene).
+14.Incos_10 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 10 y 0 si no la tiene).
+15.Incos_11 (Campo númeral binario que indica 1 si el predio tiene inconsistencia 11 y 0 si no la tiene).
+16.Modifica_1 (Campo númeral binario que indica 1 si el predio tiene modificación 1 y 0 si no la tiene).
+17.Modifica_2 (Campo númeral binario que indica 1 si el predio tiene modificación 2 y 0 si no la tiene).
+18.Modifica_3 (Campo númeral binario que indica 1 si el predio tiene modificación 3 y 0 si no la tiene).
+19.Modifica_4 (Campo númeral binario que indica 1 si el predio tiene modificación 4 y 0 si no la tiene).
+20.Modifica_5 (Campo númeral binario que indica 1 si el predio tiene modificación 5 y 0 si no la tiene).
+21.Modifica_6 (Campo númeral binario que indica 1 si el predio tiene modificación 6 y 0 si no la tiene).
+22.Modifica_7 (Campo númeral binario que indica 1 si el predio tiene modificación 7 y 0 si no la tiene).
+23.Modifica_9 (Campo númeral binario que indica 1 si el predio tiene modificación 9 y 0 si no la tiene).
+24.X (Campo númeral  que indica la coordenada X en sistema de coordenadas proyectadas CRTM05-CRSIRGAS del centroide interno del polígono del predio).
+25.Y (Campo númeral  que indica la coordenada y en sistema de coordenadas proyectadas CRTM05-CRSIRGAS del centroide interno del polígono del predio).
 
 Las relaciones de los 32.225 predios son:
 
